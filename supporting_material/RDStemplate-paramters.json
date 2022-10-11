@@ -1,0 +1,30 @@
+[
+    {
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject"
+	},
+    {
+        "ParameterKey": "DBInstanceID",
+        "ParameterValue": "mydbinstance"
+    },
+    {
+        "ParameterKey": "DBName",
+        "ParameterValue": "mydb"
+    },
+    {
+        "ParameterKey": "DBInstanceClass",
+        "ParameterValue": "db.t2.micro"
+    },
+    {
+        "ParameterKey": "DBAllocatedStorage",
+        "ParameterValue": "20"
+    },
+    {
+        "ParameterKey": "DBUsername",
+        "ParameterValue": "admin"
+    },
+    {
+        "ParameterKey": "DBPassword",
+        "ParameterValue": "admin123"
+    }
+]

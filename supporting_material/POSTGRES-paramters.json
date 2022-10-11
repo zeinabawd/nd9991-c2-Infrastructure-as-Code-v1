@@ -1,0 +1,30 @@
+[
+    {
+		"ParameterKey": "EnvironmentName",
+		"ParameterValue": "UdacityProject"
+	},
+    {
+        "ParameterKey": "DBInstanceID",
+        "ParameterValue": "postgres"
+    },
+    {
+        "ParameterKey": "DBName",
+        "ParameterValue": "postgres"
+    },
+    {
+        "ParameterKey": "DBInstanceClass",
+        "ParameterValue": "db.t3.micro"
+    },
+    {
+        "ParameterKey": "DBAllocatedStorage",
+        "ParameterValue": "20"
+    },
+    {
+        "ParameterKey": "DBUsername",
+        "ParameterValue": "postgres"
+    },
+    {
+        "ParameterKey": "DBPassword",
+        "ParameterValue": "postgres"
+    }
+]
